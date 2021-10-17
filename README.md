@@ -1,1 +1,1 @@
-Использование технологии Vertx для распределенного взаимодействия
+# Using Vertx technology for distributed interaction
